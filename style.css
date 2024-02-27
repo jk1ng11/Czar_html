@@ -1,0 +1,40 @@
+body{
+    background-image: url(Iloveyou.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 113% ;
+}
+
+
+
+.pangit{
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-radius: 20px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pogi{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.image img{
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    float: right
+}
+
+.gwapo img{
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    float: left;
+}
